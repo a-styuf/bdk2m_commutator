@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:40:33 On 29.08.2020
+
+Output: BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [bdk2m_comm.PrjPcb]
+   Generated File[bdk2m_comm.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:40:38 On 29.08.2020
